@@ -1,0 +1,37 @@
+.top-container{
+    padding-left: 35%;
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+.middle-container{
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 2%;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.button-container{
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 2%;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.bottom-container{
+    padding-left: 25%;
+    padding-right: 35%;
+    padding-top: 5%;
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
